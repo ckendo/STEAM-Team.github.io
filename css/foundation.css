@@ -154,6 +154,10 @@
 }
 }
 
+.def{
+  color: #000000;
+}
+
 .Brown {
 	color: #EC1C24;
 }
@@ -164,6 +168,18 @@
 
 .Brown h1 {
 	color: #EC1C24;
+}
+
+.RISD {
+  color: #000000;
+}
+
+.RISD a{
+  color: #000000;
+}
+
+.RISD h1{
+  color: #000000;
 }
 
 .MIT {
